@@ -71,6 +71,7 @@ Most of my work sits where deep learning meets things that have to run 24/7 on r
 |---|---|---|
 | **[sergak-ai](https://github.com/Mardonaka05/sergak-ai)** | Real-time workplace safety monitoring on existing CCTV — five YOLO detectors, NVR discovery, operator dashboard, Telegram alerting | YOLOv8, PyTorch, FastAPI, Docker, aiogram |
 | **[helmet-detection-yolo](https://github.com/Mardonaka05/helmet-detection-yolo)** | Hard-hat detection trained on real factory footage — **97.5% mAP@50**, 82.2% mAP@50-95 | Ultralytics, OpenCV, CVAT |
+| **[clinic-ai-assistant](https://github.com/Mardonaka05/clinic-ai-assistant)** | 24/7 bilingual clinic assistant on Cloudflare Workers — knowledge-base grounded, lead capture, human handover | Cloudflare Workers, Gemini, Telegram, Instagram |
 | **[universal_downloader_bot](https://github.com/Mardonaka05/universal_downloader_bot)** | Telegram bot that downloads video from Instagram and YouTube | Python, aiogram, yt-dlp |
 
 ---
