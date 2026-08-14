@@ -75,15 +75,6 @@ Most of my work sits where deep learning meets things that have to run 24/7 on r
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mardonaka05&show_icons=true&hide_border=true&count_private=true&theme=graywhite">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardonaka05&layout=compact&hide_border=true&theme=graywhite">
-</p>
-
----
-
 ### Achievements
 
 - 🥇 **1st place** — AI Skills Challenge 2026 (3rd-degree diploma)
